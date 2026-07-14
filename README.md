@@ -1,4 +1,4 @@
-# Replication materials for: Cahn, Y. (2026) "A Likelihood-Free Fiducial Framework for Inference Using Empirical Dependence Estimation"
+# Replication materials for: Cahn, Y. (2026) "A-Simulation-Based-Confidence-Distribution-for-Estimating-Equations-Models"
 
 ## Requirements
 
